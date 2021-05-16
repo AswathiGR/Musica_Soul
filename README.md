@@ -1,2 +1,2 @@
-### Music_equalizer<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width=20px>
+### Music_equalizer<img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/1f3b5.svg" width=20px>
 ##### Hello, Team music_eq Welcomes you!
