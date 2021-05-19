@@ -1,10 +1,31 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="title">
+{% if current_user.is_authenticated %}
+<h1 class="title" style="padding-top: -40vh;">
+  Welcome to Musica Soul
+</h1>
+<h6 class="subtitle"><small> Change your MP3 into MP4</small>
+ 
+</h6>
+{% if post %}
+  <h1 class="subtitle">
+    <strong>Your Videos</strong>
+  </h1>
+{%endif%}
+{% for p in post %}
+<video width="320" height="240" controls style="">
+  <source src="{{url_for('static',filename='file/'+p.video_file)}}" type="video/mp4">
+</video>
+{% endfor %}
+
+{% else %}
+<h1 class="title" style="margin-top: -10vh;">
   Welcome to Musica Soul
 </h1>
 <h2 class="subtitle">
   Change your MP3 into MP4
 </h2>
+{% endif %}
+
 {% endblock %}
