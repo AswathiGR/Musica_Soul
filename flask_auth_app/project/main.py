@@ -14,16 +14,11 @@ main = Blueprint('main', __name__,static_folder='static',template_folder='templa
 
 @main.route('/')
 def index():
-    #user = User.query.filter_by(name=current_user.name).first_or_404()
-    #posts = Post.query.filter_by(author=user)
+    if current_user.is_authenticated:
+        user = User.query.filter_by(name=current_user.name).first_or_404()
+        posts = Post.query.filter_by(author=user)
+        return render_template('index.html',post=posts)
     return render_template('index.html')
-    
-
-@main.route('/video')
-@login_required
-def video():
-    return render_template('video.html', name=current_user.name)
-    
 
 @main.route('/profile')
 @login_required
