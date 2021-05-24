@@ -18,12 +18,4 @@ Aswathi P <div align="left"> <img src="https://avatars.githubusercontent.com/u/9
 
 ### How to configure
 ### How to Run
-<table>
-    <thead>
-        <tr>
-            <th style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4.png" alt="Image">hlo</th>
-        </tr>
-    </thead>
-    <tbody>
-    </tbody>
-</table>
+
