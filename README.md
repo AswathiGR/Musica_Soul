@@ -5,7 +5,7 @@
 ### Team Members
 
 <div margin=auto; width=60%; border=3px
-  padding: 10px;>Anjana R  ></div>
+  padding: 10px;Anjana R  ></div>
 <div align="left" >Aswathi G R  https://github.com/AswathiGR</div>    
 <div align="left">Aswathi P></div>
   
