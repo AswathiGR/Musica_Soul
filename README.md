@@ -2,7 +2,7 @@
 
 ## Musica_Soul<img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/1f3b5.svg" width=20px>
 ##### (Project: Music Visualizer ⦾  Stack:Python)
-##### Hello, Team Musica_Soul Welcomes you! <img src="http://www.stmarys-sellyoak.co.uk/wp-content/uploads/animated-notes-8-300x300.gif" width="25px" height="25px" >
+##### Hello, Team Musica_Soul Welcomes you! <img src="http://www.stmarys-sellyoak.co.uk/wp-content/uploads/animated-notes-8-300x300.gif" width="100%" height="100%" >
 ### Team Members
 
 <div align="left">Anjana R https://github.com/AnjanaRajanM</div>
