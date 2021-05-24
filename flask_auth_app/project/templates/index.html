@@ -2,12 +2,13 @@
 
 {% block content %}
 {% if current_user.is_authenticated %}
-<h1 class="title" style="padding-top: -40vh;">
-  Welcome to Musica Soul
+<h1 class="title" style="padding-top: -40vh;" >
+  Welcome Back!
 </h1>
-<h6 class="subtitle"><small> Change your MP3 into MP4</small>
- 
-</h6>
+
+
+<header class="intro-header" style="background-image: url('static/MS.jpg')">
+
 {% if post %}
   <h1 class="subtitle">
     <strong>Your Videos</strong>
@@ -20,12 +21,49 @@
 {% endfor %}
 
 {% else %}
-<h1 class="title" style="margin-top: -10vh;">
-  Welcome to Musica Soul
-</h1>
-<h2 class="subtitle">
-  Change your MP3 into MP4
-</h2>
+
+ 
+
+
+
+    <h1 class="title" style="padding-top: -40vh; font-size:40px; text-shadow: 1.5px 1px 1px ">
+       Welcome to Musica Soul !
+
+
+    </h1>
+    <h2 class="subtitle" style="font-size: 25px ; padding-top:5vh" >
+      Change your MP3 into MP4
+    </h2>
+
+<style>
+  section
+  {
+    background-image:url( {{url_for('static', filename='m1l.png')}} )
+            
+  }
+ #tv {
+      position: relative;
+      width: 200px;
+      height: 150px;
+      margin: 20px 0;
+      background: red;
+      border-radius: 50% / 10%;
+      color: white;
+      text-align: center;
+      text-indent: .1em;
+    }
+    #tv:before {
+      content: '';
+      position: absolute;
+      top: 10%;
+      bottom: 10%;
+      right: -5%;
+      left: -5%;
+      background: inherit;
+      border-radius: 5% / 50%;
+    }
+  </style>
+
 {% endif %}
 
 {% endblock %}
