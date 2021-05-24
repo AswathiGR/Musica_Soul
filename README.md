@@ -3,12 +3,10 @@
 ## Musica_Soul<img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/1f3b5.svg" width=20px>
 ##### Hello, Team Musica_Soul Welcomes you! <img src="https://media.tenor.com/images/b352bb5a70f1aa0346c5cf6def25f6f0/tenor.gif" width="25px" >
 ### Team Members
-##### Anjana R <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="30" height="40" style="display:block; 
-            float:none; 
-            margin-left:auto; 
-            margin-right:auto;
-            ">
-##### Aswathi G R <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30" height="40"  >
+##### Anjana R <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="30" height="40" >
+##### Aswathi G R <div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30" height="40"  >
+            </div>
 ##### Aswathi P <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30" height="40" > 
 
 ### Team ID: BFH/rec3DT5BZ95fOCrvQ/2021
