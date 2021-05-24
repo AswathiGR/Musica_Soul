@@ -5,38 +5,73 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Flask Auth Example</title>
+    <title>Musica_Soul</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css" />
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
+    <style>
+        
+      
+        
+        h1
+        {
+        font-family: "Raleway"; font-size: 20px;
+        } 
+        h2
+        {
+        font-family: "Raleway"; font-size: 20px;
+        }    
+        a:link 
+        {
+          font-family: "Raleway"; font-size: 20px;
+        }
+        a:hover 
+        {
+         color: white;
+        
+         text-decoration:none;
+        }
+        
+ 
+        </style>
 </head>
 
-<body>
-    <section class="hero is-primary is-fullheight">
 
-        <div class="hero-head">
+<body>
+
+  
+    <section class="hero is-primary is-fullheight"  style="background-color:#A23F12;">
+
+        <div class="hero-head" >
             <nav class="navbar">
                 <div class="container">
 
                     <div class="navbar-end">
-                        <a href="{{ url_for('main.index') }}" class="navbar-item">
-                            Home
-                        </a>
+                       
                         {% if current_user.is_authenticated %}
-                        <a href="{{ url_for('main.profile') }}" class="navbar-item">
+                        <a href="{{ url_for('main.profile') }}" class="navbar-item" style="color:white">
                             Profile
+                        </a>
+                        <a href="{{ url_for('main.index') }}" class="navbar-item" style="color:white">
+                            Home 
+                        </a>
                         </a>
                         {% endif %}
                         {% if not current_user.is_authenticated %}
-                        <a href="{{ url_for('auth.login') }}" class="navbar-item">
+                        <a href="{{ url_for('auth.login') }}" class="navbar-item" style="color:white">
                             Login
                         </a>
-                        <a href="{{ url_for('auth.signup') }}" class="navbar-item">
+                        <a href="{{ url_for('main.index') }}" class="navbar-item" style="color:white">
+                            Home 
+                        </a>
+                        <a href="{{ url_for('auth.signup') }}" class="navbar-item" style="color:white">
                             Sign Up
                         </a>
                         {% endif %}
                         {% if current_user.is_authenticated %}
-                        <a href="{{ url_for('auth.logout') }}" class="navbar-item">
+                        <a href="{{ url_for('auth.logout') }}" class="navbar-item" style="color:white"> 
                             Logout
                         </a>
+                        
                         {% endif %}
                     </div>
                 </div>
@@ -50,6 +85,8 @@
             </div>
         </div>
     </section>
+   
+
 </body>
 
 </html>
