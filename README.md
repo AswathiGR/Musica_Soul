@@ -2,4 +2,18 @@
 
 ### Music_equalizer<img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/1f3b5.svg" width=20px>
 ##### Hello, Team Musica_Soul Welcomes you!
+## Team Members
+Anjana R 
+Aswathi G R
+Aswathi P
+
 ### Team ID: BFH/rec3DT5BZ95fOCrvQ/2021
+## How it Works ?
+1.Working of Musica_Soul
+2.Video of project demo
+[Respective links will be added shortly]
+
+## Libraries used
+
+## How to configure
+## How to Run
