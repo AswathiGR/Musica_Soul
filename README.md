@@ -5,7 +5,7 @@
 ### Team Members
 
 ##### Anjana R
-<div align="left"><img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="30" height="40" ></div>
+<div align="left"><img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="30" height="30" ></div>
 ##### Aswathi G R  <div align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30" height="40"  >
       </div>    
