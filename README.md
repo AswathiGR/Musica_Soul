@@ -4,9 +4,9 @@
 ##### Hello, Team Musica_Soul Welcomes you! <img src="https://media.tenor.com/images/b352bb5a70f1aa0346c5cf6def25f6f0/tenor.gif" width="25px" >
 ### Team Members
 
-<div align="left">Anjana R</div>
+<div align="left">Anjana R https://github.com/AnjanaRajanM</div>
 <div align="left" >Aswathi G R  https://github.com/AswathiGR</div>    
-<div align="left">Aswathi P></div>
+<div align="left">Aswathi P https://github.com/AswathipRaj</div>
   
 ### Team ID: BFH/rec3DT5BZ95fOCrvQ/2021
 ### How it Works ?
