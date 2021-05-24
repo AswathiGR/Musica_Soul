@@ -2,7 +2,8 @@
 
 ## Musica_Soul<img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/1f3b5.svg" width=20px>
 ##### (Project: Music Visualizer ⦾  Stack:Python)
-##### Hello, Team Musica_Soul Welcomes you! <img src="https://c.tenor.com/PWaOCHK8jKEAAAAj/music-notes-sound.gif">
+##### Hello, Team Musica_Soul Welcomes you! 
+<div><img src="https://c.tenor.com/PWaOCHK8jKEAAAAj/music-notes-sound.gif"></div>
 ### Team Members
 
 <div align="left">Anjana R https://github.com/AnjanaRajanM</div>
