@@ -1,9 +1,11 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="column is-4 is-offset-4">
-    <h3 class="title">Login</h3>
-    <div class="box">
+
+<div class="column is-4 is-offset-4" >
+    <h3 class="title" style="width: 300px; padding-left: 50px; margin-bottom:50px;
+    height: 30px; font-family: Raleway; font-style: normal; 
+    font-weight: normal; font-size: 36px; line-height: 30px; color: rgba(255, 255, 255, 0.78);">Login</h3>
 {% with messages = get_flashed_messages() %}
 {% if messages %}
     <div class="notification is-danger">
@@ -11,27 +13,40 @@
     </div>
 {% endif %}
 {% endwith %}
-<form method="POST" action="/login">
-        <form method="POST" action="/login">
-            <div class="field">
+<form method="POST" action="/login"  >
+        <form method="POST" action="/login" >
+            <div class="field" >
                 <div class="control">
-                    <input class="input is-large" type="email" name="email" placeholder="Your Email" autofocus="">
+                    <input class="input is-large" type="email" name="email" placeholder="Email" autofocus="" 
+                    style="width: 350px; color:#DBC5C7 ; height: 40px; background: #FFFFFF; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+                    border-radius: 50px; margin-bottom: 10px; font-size: 25px; ">
                 </div>
             </div>
-
-            <div class="field">
-                <div class="control">
-                    <input class="input is-large" type="password" name="password" placeholder="Your Password">
+            
+            <div class="field" >
+                <div class="control" >
+                    <input class="input is-large" type="password" name="password" placeholder="Password" 
+                    style="width: 350px; color:#DBC5C7 ;
+                    height: 40px; background: #FFFFFF;  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                border-radius: 50px;  margin-bottom: 10px; font-size: 25px;">
                 </div>
             </div>
-            <div class="field">
-                <label class="checkbox">
-                    <input type="checkbox">
-                    Remember me
+            <div class="field" style="margin-left: 170px;">
+                <label class="checkbox" style="
+                font-family: Raleway; color: rgba(255, 255, 255, 0.78); font-style: normal; 
+                font-weight: normal; font-size: 20px; width: 200px; height: 50px; line-height: 13px;">
+                    <input type="checkbox" style=" width: 10px; height: 13px; background: #FFFFFF;
+                    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 50px; " >
+                    Remember Me
                 </label>
             </div>
-            <button class="button is-block is-info is-large is-fullwidth">Login</button>
+            <button class="button is-block is-info is-large is-fullwidth" style="background: #FFFFFF; border: none;
+               width: 100px; height: 30px;  color:#DBC5C7 ;
+               box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 50px; 
+               font-family: Raleway; font-style: normal; font-weight: bold; font-size: 20px; line-height: 10px; 
+               color: rgba(162, 63, 18, 0.78); margin-left: 35%;">Login</button>
         </form>
     </div>
 </div>
 {% endblock %}
+                    
