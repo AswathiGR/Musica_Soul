@@ -1,18 +1,27 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="title" style="margin-top: -10vh;">
-  Welcome, {{name}}
+<h1 class="title" style=" padding-bottom: 50px;  height: 28px; font-family: Raleway;
+font-style: normal; font-weight: 600; font-size: 50px; line-height: 28px; color: rgba(255, 255, 255, 0.78);">
+  Hi, {{name}}!
 </h1>
-<form method="post" action="/profile" enctype="multipart/form-data">
-  <input type="file" name="input" accept=".mp3">
-  <button type="submit">convert</button>
+<h class="title" style="font-size: 36px; font-family: Raleway;
+font-style: normal; font-weight: 400; line-height: 16px; color: #FFFFFF; ">
+  Change your MP3 to MP4
+</h>
+<form method="post" action="/profile" enctype="multipart/form-data" style="padding-top: 50px; line-height: 20px; ">
+  <input type="file" name="input" accept=".mp3" style="width: 300px; color: rgba(255, 255, 255, 0.5);
+  height: 100px; font-family: Raleway; font-style: normal; font-weight: normal;
+  font-size: 18px; line-height: 20px; margin-right: 150px;">
+  <button type="submit" style=" width: 100px; color: #A96368;
+  height: 30px; font-style: normal; font-weight: bold; font-size: 20px; line-height: 10px; background: #FFFFFF;
+  border-radius: 15px; border-color: white; box-shadow: 25%; ">convert!!</button>
 </form>
 {%if o %}
-<video width="320" height="240" controls style="margin-top: 10vh;">
+<video width="600" height="240" controls style=" padding-bottom: 20px; ">
   <source src="{{url_for('static',filename='file/'+o)}}" type="video/mp4">
 </video><br>
-<a href="{{url_for('main.down',paths=o)}}" target="blank"><button class="button is-danger">Download</button></a>
+<a href="{{url_for('main.down',paths=o)}}" target="blank"><button class="button is-danger" >Download</button></a>
 
 {%endif%}
 
