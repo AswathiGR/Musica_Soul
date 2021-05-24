@@ -13,7 +13,7 @@ Aswathi P
 2.Video of project demo
 [Respective links will be added shortly]
 
-## Libraries used
+### Libraries used
 
-## How to configure
-## How to Run
+### How to configure
+### How to Run
