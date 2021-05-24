@@ -4,8 +4,8 @@
 ##### (Project: Music Visualizer ⦾  Stack:Python)
 ##### Hello, Team Musica_Soul Welcomes you! 
 <div><img src="https://c.tenor.com/PWaOCHK8jKEAAAAj/music-notes-sound.gif"></div>
-### Team Members
 
+### Team Members
 <div align="left">Anjana R https://github.com/AnjanaRajanM</div>
 <div align="left" >Aswathi G R  https://github.com/AswathiGR</div>    
 <div align="left">Aswathi P https://github.com/AswathipRaj</div>
