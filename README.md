@@ -5,9 +5,9 @@
 ### Team Members
 
 <div margin=auto; width=60%; border=3px
-  padding: 10px;>Anjana R <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width=5% height=5%  ></div>
-<div align="left" >Aswathi G R  <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width=5% height=5% >https://github.com/AswathiGR</div>    
-<div align="left">Aswathi P  <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width=5% height=5%  ></div>
+  padding: 10px;>Anjana R  ></div>
+<div align="left" >Aswathi G R  https://github.com/AswathiGR</div>    
+<div align="left">Aswathi P></div>
   
 ### Team ID: BFH/rec3DT5BZ95fOCrvQ/2021
 ### How it Works ?
