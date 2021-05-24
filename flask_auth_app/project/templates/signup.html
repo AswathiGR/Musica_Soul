@@ -1,9 +1,10 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="column is-4 is-offset-4">
-    <h3 class="title">Sign Up</h3>
-    <div class="box">
+<div class="column is-4 is-offset-4" style="align-item centered ">
+    <h3 class="title" style="width: 300px; padding-bottom: 50px; padding-left: 50px;
+    height: 30px; font-family: Raleway; font-style: normal; 
+    font-weight: normal; font-size: 36px; line-height: 30px; color: rgba(255, 255, 255, 0.78)">Sign Up</h3>
         {% with messages = get_flashed_messages() %}
         {% if messages %}
             <div class="notification is-danger">
@@ -11,28 +12,42 @@
          </div>
       {% endif %}
       {% endwith %}
-    <form method="POST" action="/signup">
+    <form method="POST" action="/signup" >
         <form method="POST" action="/signup">
-            <div class="field">
+            <div class="field" >
                 <div class="control">
-                    <input class="input is-large" type="email" name="email" placeholder="Email" autofocus="">
+                    <input class="input is-large" type="email" name="email" placeholder="Email" autofocus="" style="width: 350px;
+                    height: 40px; background: #FFFFFF;
+                    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                    border-radius: 50px; margin-bottom: 10px;">
                 </div>
             </div>
 
             <div class="field">
                 <div class="control">
-                    <input class="input is-large" type="text" name="name" placeholder="Name" autofocus="">
+                    <input class="input is-large" type="text" name="name" placeholder="Name" autofocus="" 
+                    style="width: 350px;
+                    height: 40px; background: #FFFFFF; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                    border-radius: 50px; margin-bottom: 10px;">
                 </div>
             </div>
-
+            
             <div class="field">
                 <div class="control">
-                    <input class="input is-large" type="password" name="password" placeholder="Password">
+                    <input class="input is-large" type="password" name="password" placeholder="Password" style="width: 350px;
+                    height: 40px; background: #FFFFFF;
+                box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                border-radius: 50px; margin-bottom: 30px;">
                 </div>
             </div>
 
-            <button class="button is-block is-info is-large is-fullwidth">Sign Up</button>
+            <button class="button is-block is-info is-large is-fullwidth" style="background: #FFFFFF; border: none;
+            width: 100px; height: 30px;  margin-left: 35%; 
+           box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 50px; font-family: Raleway; font-style: normal; 
+           font-weight: bold; font-size: 20px; line-height: 20px; color: rgba(162, 63, 18, 0.78); ">Sign Up</button>
         </form>
     </div>
 </div>
 {% endblock %}
+
+    
