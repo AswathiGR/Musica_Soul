@@ -5,7 +5,7 @@
 ### Team Members
 
 Anjana R <div align="left"><img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="30" height="30" ></div>
-Aswathi G R  <div align="left"><img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="30" height="30" style="text-align:center;">https://github.com/AswathiGR</div>    
+Aswathi G R  <div align="left"><img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="30" height="30">https://github.com/AswathiGR</div>    
 Aswathi P <div align="left"> <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="30" height="30" ></div>
   
 ### Team ID: BFH/rec3DT5BZ95fOCrvQ/2021
