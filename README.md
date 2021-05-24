@@ -4,8 +4,7 @@
 ##### Hello, Team Musica_Soul Welcomes you! <img src="https://media.tenor.com/images/b352bb5a70f1aa0346c5cf6def25f6f0/tenor.gif" width="25px" >
 ### Team Members
 
-Anjana R
-<div align="left"><img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="30" height="30" ></div>
+Anjana R <div align="left"><img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="30" height="30" ></div>
 Aswathi G R  <div align="left">
 <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="30" height="30"  >
       </div>    
