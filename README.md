@@ -2,7 +2,7 @@
 
 ## Musica_Soul<img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/1f3b5.svg" width=20px>
 ##### (Project: Music Visualizer ⦾  Stack:Python)
-##### Hello, Team Musica_Soul Welcomes you! <img src="https://i.pinimg.com/originals/d7/a9/95/d7a995f34f372832860215bbe65f2cc1.gif" width="25px" >
+##### Hello, Team Musica_Soul Welcomes you! <img src="https://i.pinimg.com/originals/d7/a9/95/d7a995f34f372832860215bbe65f2cc1.gif" width="45px" >
 ### Team Members
 
 <div align="left">Anjana R https://github.com/AnjanaRajanM</div>
