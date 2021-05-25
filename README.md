@@ -17,8 +17,11 @@
 ###### <a href="https://github.com/AnjanaRajanM">📍Anjana R</a>
 ###### <a href="https://github.com/AswathipRaj">📍Aswathi P</a>
 
-  
+--- 
+
 ### Team ID: BFH/rec3DT5BZ95fOCrvQ/2021
+
+---
 ### How it Works ?
 
 ###### [Respective links will be added shortly]
