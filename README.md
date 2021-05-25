@@ -25,7 +25,7 @@
 
 ### Libraries used
 
-✨Flask-Login==0.5.0
+✨Flask-Login==0.5.0 \n
 ✨moviepy==1.0.3
 ✨SQLAlchemy==1.4.15
 ✨flask_login
