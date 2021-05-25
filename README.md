@@ -10,7 +10,7 @@
 ###### 🔥Simple and Handy UI
 ###### 🔥User management System
 ###### 🔥Preview option before downloading the converted video
-###### 🔥Past Videos will be automatically saved in the users account
+###### 🔥Past Videos will be automatically saved in the user's account
 
 ### Team Members
 <div align="left">Anjana R https://github.com/AnjanaRajanM</div>
