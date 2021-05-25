@@ -13,9 +13,9 @@
 ###### 🔥Past Videos will be automatically saved in the user's account
 
 ### Team Members
-<div align="left">Anjana R https://github.com/AnjanaRajanM</div>
-<div align="left" >Aswathi G R  https://github.com/AswathiGR</div>    
-<div align="left">Aswathi P https://github.com/AswathipRaj</div>
+<a href="https://github.com/AnjanaRajanM">📍Anjana R</a>
+<div align="left" >Aswathi G R  📍https://github.com/AswathiGR</div>    
+<div align="left">Aswathi P 📍https://github.com/AswathipRaj</div>
   
 ### Team ID: BFH/rec3DT5BZ95fOCrvQ/2021
 ### How it Works ?
@@ -35,5 +35,6 @@
 
 
 ### How to configure
+Download this repository
 ### How to Run
 
