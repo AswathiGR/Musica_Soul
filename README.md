@@ -14,8 +14,9 @@
 
 ### Team Members
 <a href="https://github.com/AnjanaRajanM">📍Anjana R</a>
-<div align="left" >Aswathi G R  📍https://github.com/AswathiGR</div>    
-<div align="left">Aswathi P 📍https://github.com/AswathipRaj</div>
+<a href="https://github.com/AswathiGR">📍Aswathi G R</a>
+<a href="https://github.com/AswathipRaj">📍Aswathi P</a>
+
   
 ### Team ID: BFH/rec3DT5BZ95fOCrvQ/2021
 ### How it Works ?
