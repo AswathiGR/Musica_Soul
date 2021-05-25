@@ -39,7 +39,7 @@
 ###### 1.Clone/Download this repository 
 ###### 2.Create a virtual enviroment or proceed as global 
 ###### 3.Install required dependecies 
-###### 4.Head to the flask_auth_app directory using cd command
+###### 4.Ensure that you are in the flask_auth_app directory. otherwise,head to the flask_auth_app directory using cd command
 ###### 5.you can set the FLASK_APP and FLASK_DEBUG values:
         ```
         export FLASK_APP=project
