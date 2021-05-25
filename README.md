@@ -13,8 +13,8 @@
 ###### 🔥Past Videos will be automatically saved in the user's account
 
 ### Team Members
-###### <a href="https://github.com/AnjanaRajanM">📍Anjana R</a>
 ###### <a href="https://github.com/AswathiGR">📍Aswathi G R</a>
+###### <a href="https://github.com/AnjanaRajanM">📍Anjana R</a>
 ###### <a href="https://github.com/AswathipRaj">📍Aswathi P</a>
 
   
