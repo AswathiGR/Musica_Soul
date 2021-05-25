@@ -13,26 +13,25 @@
 ###### 🔥Past Videos will be automatically saved in the user's account
 
 ### Team Members
-<a href="https://github.com/AnjanaRajanM">📍Anjana R</a>
-<a href="https://github.com/AswathiGR">📍Aswathi G R</a>
-<a href="https://github.com/AswathipRaj">📍Aswathi P</a>
+######<a href="https://github.com/AnjanaRajanM">📍Anjana R</a>
+######<a href="https://github.com/AswathiGR">📍Aswathi G R</a>
+######<a href="https://github.com/AswathipRaj">📍Aswathi P</a>
 
   
 ### Team ID: BFH/rec3DT5BZ95fOCrvQ/2021
 ### How it Works ?
-1.Working of Musica_Soul
-2.Video of project demo
-[Respective links will be added shortly]
+
+######[Respective links will be added shortly]
 
 ### Libraries used
 
-✨Flask-Login==0.5.0 
-✨moviepy==1.0.3
-✨SQLAlchemy==1.4.15
-✨flask_login
-✨Werkzeug==0.16.1
-✨oauthlib==3.1.0
-✨SecretStorage==2.3.1
+######✨Flask-Login==0.5.0 
+######✨moviepy==1.0.3
+######✨SQLAlchemy==1.4.15
+######✨flask_login
+######✨Werkzeug==0.16.1
+######✨oauthlib==3.1.0
+######✨SecretStorage==2.3.1
 
 
 ### How to configure
