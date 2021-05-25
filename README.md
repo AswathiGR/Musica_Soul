@@ -5,8 +5,12 @@
 ##### Hello, Team Musica_Soul Welcomes you! 
 <div><img src="https://c.tenor.com/PWaOCHK8jKEAAAAj/music-notes-sound.gif"></div>
 
-
-
+#### Introducing Musica Soul
+###### 🔥Web App for MP3 to MP4 conversion
+###### 🔥Simple and Handy UI
+###### 🔥User management System
+###### 🔥Preview option before downloading the converted video
+###### 🔥Past Videos will be automatically saved in the users account
 
 ### Team Members
 <div align="left">Anjana R https://github.com/AnjanaRajanM</div>
