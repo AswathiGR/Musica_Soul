@@ -36,6 +36,17 @@
 
 
 ### How to configure
-Download this repository
+1.Clone/Download this repository 
+2.Create a virtual enviroment or proceed as global 
+3.Install required dependecies 
+4.Head to the flask_auth_app directory using cd command
+5.Export Flask app 'project' and give debug="1" (true)
+6.Run using flask run command
 ### How to Run
-
+1.Go to <a href="http://musicasoul.pythonanywhere.com/">Musica_Soul</a>
+2.<a href="http://musicasoul.pythonanywhere.com/signup">Sign Up</a> and create an Account 
+3.You will be redirected to login page after creating an account.Click on Remember me if required
+4.After logging in, you can Convert Audio to Video
+5.You can preview it before downloading
+6.Once you logged in,you can see the past videos in your home page
+7.Logout after use.
