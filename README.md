@@ -34,7 +34,6 @@
 ###### ✨Flask-Login==0.5.0 
 ###### ✨moviepy==1.0.3
 ###### ✨SQLAlchemy==1.4.15
-###### ✨flask_login
 ###### ✨Werkzeug==0.16.1
 ###### ✨oauthlib==3.1.0
 ###### ✨SecretStorage==2.3.1
