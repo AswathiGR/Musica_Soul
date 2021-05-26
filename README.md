@@ -46,10 +46,10 @@
 ###### 3.Install required dependecies 
 ###### 4.Ensure that you are in the flask_auth_app directory. otherwise,head to the flask_auth_app directory using cd command
 ###### 5.you can set the FLASK_APP and FLASK_DEBUG values:
-        ```
+        
         export FLASK_APP=project
         export FLASK_DEBUG=1
-        ```
+        
 ###### 6.Run using `flask run` command
 ### How to Run
 ###### 1.Go to <a href="http://musicasoul.pythonanywhere.com/">Musica_Soul</a>
