@@ -27,7 +27,7 @@
 ---
 ### How it Works ?
 
-###### <a href="https://www.loom.com/share/306b0f49c7ee40feb2d57776467f6735">Let's go to te Explanation Video!</a>
+###### <a href="https://www.loom.com/share/306b0f49c7ee40feb2d57776467f6735">Let's go to the Explanation Video!</a>
 
 ### Libraries used
 
